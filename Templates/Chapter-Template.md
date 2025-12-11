@@ -4,9 +4,9 @@
 (Explain in your own words)
 
 ## Key Concepts
-- [[Concept A]]
-- [[Concept B]]
-- [[Concept C]]
+- [[Concepts/Concept A]]
+- [[Concepts/Concept B]]
+- [[Concepts/Concept C]]
 
 ## My Explanation
 (Write your understanding of the material)

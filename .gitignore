@@ -6,3 +6,4 @@
 
 # Ignore Smart Environment folder
 .smart-env
+/.DS_Store

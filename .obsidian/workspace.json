@@ -21,14 +21,46 @@
             "id": "07f766d31d1305a0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Docs/Books/ddia-notes/Reliable, Scalable and Maintainable Applications.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reliable, Scalable and Maintainable Applications"
+            }
+          },
+          {
+            "id": "f68a34c35b491e04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/chapter-template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "chapter-template"
+            }
+          },
+          {
+            "id": "3b2a155cdc564a73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Reliability.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reliability"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -101,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Concepts/Reliability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Reliability"
             }
           },
           {
@@ -119,11 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Concepts/Reliability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Reliability"
             }
           },
           {
@@ -161,12 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Concepts/Reliability.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Reliability"
             }
           },
           {
@@ -222,11 +257,19 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "07f766d31d1305a0",
+  "active": "3b2a155cdc564a73",
   "lastOpenFiles": [
-    "Home.md",
+    "Concepts/Reliability.md",
     "Docs/Books/ddia-notes/Reliable, Scalable and Maintainable Applications.md",
+    "Concepts/Concept A.md",
+    "Untitled.base",
     "2025-12-11.md",
+    "Home.md",
+    "Templates/concept-template.md",
+    "Templates/chapter-template.md",
+    "Concept B.md",
+    "Concepts",
+    "Docs/glossary/glossary.md",
     "README.md"
   ]
 }
