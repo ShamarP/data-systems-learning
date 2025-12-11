@@ -11,32 +11,13 @@
             "id": "0f9845cd082a7486",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL practice.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "SQL practice"
-            }
-          },
-          {
-            "id": "aec23bf3333356b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Leetcode"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,6 +166,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -195,15 +177,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aec23bf3333356b2",
+  "active": "0f9845cd082a7486",
   "lastOpenFiles": [
     "SQL practice.md",
     "Leetcode.md",
-    "Practice Problems.md",
     "Fundamentals Of Data Engineering.md",
-    "Books.md",
     "Data Engineering Get Started.md",
+    "Books.md",
     "Articles.md",
+    "Practice Problems.md",
     "The Data Warehouse Toolkit.md",
     "histogram of tweets.md",
     "Data_Engineering_Guide/README.md",

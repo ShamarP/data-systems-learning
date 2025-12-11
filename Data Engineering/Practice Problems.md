@@ -1,5 +1,0 @@
-
-[[SQL practice]]
-
-[[Leetcode]]
-
