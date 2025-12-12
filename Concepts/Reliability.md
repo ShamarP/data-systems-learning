@@ -17,12 +17,12 @@ Reliability is important when designing a system as users are relying on you to 
 	- Human error: errors cause by people using the system. Designing systems that encourages users to do the right things is one solution.
 
 ## Simple example
-(Explain it using a toy example, analogy, or tiny code snippet.)
+An alarm clock app that goes off every morning at the time you set, even after your phone restarts overnight.
 
 ## Real-world systems that use this
-- Kafka → how it applies
-- Postgres → how it applies
-- Spark → how it applies
+- Redundancy in Databases -> Replicating data over multiple disks
+- Netflix lowers video quality when bandwidth drops instead of stopping playback.
+- Microservices isolate failures to one service -> This contains the blast radius of a failure
 
 ## Tradeoffs / limitations
 - Things break and it's impossible to make a system completely fault tolerant.
