@@ -18,49 +18,35 @@
             }
           },
           {
-            "id": "07f766d31d1305a0",
+            "id": "716cf2764dbc60dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docs/Books/ddia-notes/Reliable, Scalable and Maintainable Applications.md",
+                "file": "Docs/Books/AI Engineering Notes/Introduction to Building AI Applications with Foundation Models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reliable, Scalable and Maintainable Applications"
+              "title": "Introduction to Building AI Applications with Foundation Models"
             }
           },
           {
-            "id": "f68a34c35b491e04",
+            "id": "cab15126cbc191ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/chapter-template.md",
+                "file": "Docs/Books/AI Engineering Notes/Introduction to Building AI Applications with Foundation Models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chapter-template"
-            }
-          },
-          {
-            "id": "3b2a155cdc564a73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/Reliability.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reliability"
+              "title": "Introduction to Building AI Applications with Foundation Models"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Reliability.md",
+                "file": "Docs/Books/ddia-notes/Reliable, Scalable and Maintainable Applications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Reliability"
+              "title": "Backlinks for Reliable, Scalable and Maintainable Applications"
             }
           },
           {
@@ -152,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/Reliability.md",
+                "file": "Docs/Books/ddia-notes/Reliable, Scalable and Maintainable Applications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Reliability"
+              "title": "Outgoing links from Reliable, Scalable and Maintainable Applications"
             }
           },
           {
@@ -195,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/Reliability.md",
+                "file": "Docs/Books/ddia-notes/Reliable, Scalable and Maintainable Applications.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Reliability"
+              "title": "Outline of Reliable, Scalable and Maintainable Applications"
             }
           },
           {
@@ -257,18 +243,23 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "3b2a155cdc564a73",
+  "active": "4195bce2789e616c",
   "lastOpenFiles": [
+    "Docs/glossary/Glossary.md",
+    "Docs/Books/AI Engineering Notes/Introduction to Building AI Applications with Foundation Models.md",
+    "Concepts/Foundational Models.md",
     "Docs/Books/ddia-notes/Reliable, Scalable and Maintainable Applications.md",
+    "Table.base",
+    "Untitled.md",
+    "Experiment note.md",
+    "Templates/chapter-template.md",
     "Templates/concept-template.md",
-    "Docs/glossary/glossary.md",
+    "Docs/Books/AI Engineering Notes",
     "Concepts/Reliability.md",
+    "Home.md",
     "conflict-files-obsidian-git.md",
     "Concepts/Concept A.md",
-    "Untitled.base",
     "2025-12-11.md",
-    "Home.md",
-    "Templates/chapter-template.md",
     "Concept B.md",
     "Concepts",
     "README.md"

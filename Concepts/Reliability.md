@@ -17,6 +17,7 @@ Reliability is important when designing a system as users are relying on you to 
 	- Human error: errors cause by people using the system. Designing systems that encourages users to do the right things is one solution.
 
 ## Simple example
+
 An alarm clock app that goes off every morning at the time you set, even after your phone restarts overnight.
 
 ## Real-world systems that use this
