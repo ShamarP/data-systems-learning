@@ -48,11 +48,10 @@ very bare bones example of how we can use these foundation models to perform tas
 
 ## Misunderstandings I corrected
 - Tokenization
-- Foundational models
-- Parameters
+- 
 
 ## Open Questions
-
+(Things to revisit later)
 
 ## Related Notes
 - [[Related concept]]
