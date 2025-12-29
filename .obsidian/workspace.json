@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docs/Books/AI Engineering Notes/Understanding Foundational Models.md",
+                "file": "Templates/chapter-template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Understanding Foundational Models"
+              "title": "chapter-template"
             }
           }
         ],
@@ -166,12 +166,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docs/Books/ddia-notes/Reliable, Scalable and Maintainable Applications.md",
+                "file": "Templates/chapter-template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Reliable, Scalable and Maintainable Applications"
+              "title": "Outgoing links from chapter-template"
             }
           },
           {
@@ -209,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docs/Books/ddia-notes/Reliable, Scalable and Maintainable Applications.md",
+                "file": "Templates/chapter-template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Reliable, Scalable and Maintainable Applications"
+              "title": "Outline of chapter-template"
             }
           },
           {
@@ -273,21 +273,21 @@
   },
   "active": "4195bce2789e616c",
   "lastOpenFiles": [
-    "Docs/Books/AI Engineering Notes/Introduction to Building AI Applications with Foundation Models.md",
-    "Docs/random-deep-dives/Recurrent Neural Network (RNN).md",
-    "Pasted image 20251226190634.png",
+    "Templates/concept-template.md",
     "Docs/Books/AI Engineering Notes/Understanding Foundational Models.md",
+    "Docs/Books/AI Engineering Notes/Introduction to Building AI Applications with Foundation Models.md",
+    "Templates/chapter-template.md",
     "Concepts/Foundational Models.md",
     "Concepts/Reliability.md",
+    "Docs/glossary/Glossary.md",
+    "Docs/random-deep-dives/Recurrent Neural Network (RNN).md",
+    "Pasted image 20251226190634.png",
+    "Home.md",
     "Table.base",
     "Untitled.base",
-    "Templates/concept-template.md",
-    "Docs/glossary/Glossary.md",
     "Docs/Books/ddia-notes/Reliable, Scalable and Maintainable Applications.md",
     "Experiment note.md",
-    "Templates/chapter-template.md",
     "Docs/Books/AI Engineering Notes",
-    "Home.md",
     "conflict-files-obsidian-git.md",
     "Concepts/Concept A.md",
     "2025-12-11.md",

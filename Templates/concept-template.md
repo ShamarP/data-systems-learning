@@ -23,8 +23,7 @@
 (Where this concept struggles, edge cases, scaling issues.)
 
 ## Related concepts
-- [[Related Concept 1]]
-- [[Related Concept 2]]
+
 
 ## Misunderstandings I corrected
 (What clicked after writing this?)
